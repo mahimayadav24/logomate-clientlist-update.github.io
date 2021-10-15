@@ -857,6 +857,10 @@ input.no-icon {
     font-size: calc(9pt + 0.15vw);
 }
 
+.sp__1 img {
+    transform: translateX(18px);
+}
+
 @media screen and (min-width: 2560px) {
     .three-sp {
         transform: translatex(-170px);
